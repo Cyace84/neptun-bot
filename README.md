@@ -32,7 +32,7 @@ ctrl(^) + с
 or close your terminal
 
 
-# Very important! Do not use the bot to send messages to ordinary users - your account will be blocked by telegram very quickly.
+# Very important! Do not use the bot to send messages to ordinary users (only bot accounts) - your account will be blocked by telegram very quickly.
 
 # Plase use the development reasonably without violating the laws of Ukraine. Only for the destruction of muscovites-bots.
 # Слава Україні 🇺🇦
