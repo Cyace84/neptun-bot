@@ -3,7 +3,7 @@ DDOS of separatist bot
 
 # Requirements
 - Installed Python3+
-- Instaleld Python requirements:
+- Installed Python requirements:
 To install requirements type in terminal
 ```
 pip3 install -r requirements.txt
