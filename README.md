@@ -4,7 +4,7 @@ DDOS of separatist bot
 # Requirements
 - Installed Python3+
 - Instaleld Python requirements:
-
+To install requirements type in terminal
 ```
 pip3 install -r requirements.txt
 ```
@@ -14,7 +14,9 @@ The configuration file is already configured, but if you wish, you can change th
 - spam_count - How many messages will the bot send
 - chat_id - Target bot username. As soon as the target is eliminated, you need to replace it with a new username
 - text - The message that the bot will send
-- api_id and api_hash - These are special keys for using the telegram API, you can get it here my.telegram.org. But this is not necessary, you can use those that are already installed
+- api_id and api_hash - These are special keys for using the telegram API, you can get it here my.telegram.org. But this is not necessary, you can use those that are already installed.
+
+To start the bot, enter in the terminal:
 
 ```
 python3 run.py
