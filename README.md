@@ -30,4 +30,5 @@ ctrl(^) + a + d
 or close your terminal
 
 
-# Plase use the development reasonably without violating the laws of Ukraine. Only for the destruction of Muscovites-bots. Слава Україні 🇺🇦
+# Plase use the development reasonably without violating the laws of Ukraine. Only for the destruction of Muscovites-bots.
+# Слава Україні 🇺🇦
