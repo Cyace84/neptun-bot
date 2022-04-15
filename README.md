@@ -18,6 +18,8 @@ The configuration file is already configured, but if you wish, you can change th
 
 To start the bot, enter in the terminal:
 
+On the first launch, you will need to enter a phone number and a verification code. The bot does not save your phone, this is necessary for the telegram API, more details https://docs.pyrogram.org/intro/quickstart
+
 ```
 python3 run.py
 ```
@@ -28,6 +30,7 @@ python3 run.py
 ctrl(^) + a + d 
 ```
 or close your terminal
+
 
 
 # Plase use the development reasonably without violating the laws of Ukraine. Only for the destruction of Muscovites-bots.
