@@ -27,7 +27,7 @@ python3 run.py
 # How Stop
 
 ```
-ctrl(^) + a + d 
+ctrl(^) + с
 ```
 or close your terminal
 
