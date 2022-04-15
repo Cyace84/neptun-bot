@@ -20,5 +20,7 @@ with app:
         app.send_message(cfg["chat_id"], cfg["text"])
         sleep(spam_interval)
 
+    print("Успіх!")
+
 if __name__ == "__main__":
     app.run()
